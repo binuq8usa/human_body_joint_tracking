@@ -116,7 +116,7 @@ int main(int argc,char** argv)
 	bool flag_ORB_tracker_kalman = false;
 	bool flag_FREAK_tracker_kalman = false;
 
-	// for proposed framework to keep tracks
+	// for proposed framework to keep tracks - Citation [1]
 	bool flag_HOG_proposed = false;
 	bool flag_LBP_proposed = false;
 
@@ -127,7 +127,7 @@ int main(int argc,char** argv)
 	bool flag_ORB_proposed = false;
 	bool flag_FREAK_proposed = false;
 
-	// for probabilistic proposed framework to keep tracks
+	// for probabilistic proposed framework to keep tracks - Citation [2]
 	bool flag_HOG_proposed_prob = false;
 	bool flag_LBP_proposed_prob = false;
 
